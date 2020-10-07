@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieUPC</string>
+    <string name="favorite">Favorito</string>
+    <string name="search">Buscar</string>
+    <string name="imageDescription">Imagen de la App</string>
+    <string name="movie">Pelicula</string>
+    <string name="title">Titulo</string>
+    <string name="overview">Sinopsis</string>
+</resources>
